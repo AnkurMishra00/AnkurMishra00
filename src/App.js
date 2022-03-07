@@ -1,10 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
-
+import Management from './components/Management';
 function App() {
   return (
     <div className="App">
-     <h1>My react app</h1>
+      <h1>Management App</h1>
+     <Management />
     </div>
   );
 }
