@@ -1,72 +1,67 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<a href="#"> <img src = "https://www.wallpapertip.com/wmimgs/250-2504846_a-two-display-workspace-with-lines-of-code.jpg" width="100%" height = "500px" /></a>
 
-## Available Scripts
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ankur Mishra</h1>
+<h3 align="center">A Full Stack Web Developer</h3>
 
-In the project directory, you can run:
 
-### `npm start`
+## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p> 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- 👨‍💻 Connect with me **[Mahipal Singh](https://www.linkedin.com/in/jtmahi)**
+-  🔭 I’m currently working on **my skills.**
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- 🌱 I’m currently learning **Data Structures and Algorithms, React, Typescript.**
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- 📫 How to reach me **ankurmishra710@gmail.com**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/source-code.png"/> Languages and Tools:</p> 
 
-### `npm run eject`
+    
+   <a href = "#">  <img background = "black" src="https://img.icons8.com/color/48/000000/react-native.png" alt="react" /> </a>
+    <a href = "#">  <img src="https://img.icons8.com/color/48/000000/javascript.png" /> </a>
+     <a href = "#"> <img src="https://img.icons8.com/color/48/000000/html-5.png" /> </a>
+     <a href = "#"> <img src="https://img.icons8.com/color/48/000000/css3.png" /> </a>
+    <a href = "#">  <img src="https://img.icons8.com/color/48/000000/nodejs.png" /> </a>
+    <a href = "#">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/></a> 
+    <a href = "#">  <img src="https://img.icons8.com/color/48/000000/git.png" /> </a>
+    <a href = "#">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+ ## 📊 My Github Stats
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+  <br/>
+    <a href="https://github.com/mahi98jat/github-readme-stats"><img alt="Mahipal's Github stats" src="https://github-readme-stats.vercel.app/api?username=mahi98jat&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/mahi98jat/github-readme-stats"><img alt="Mahipal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahi98jat&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+ 
+ 
 
-### Code Splitting
+<br/>
+<br/>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<a href="https://github.com/mahi98jat/github-readme-activity-graph"><img alt="Mahipal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mahi98jat&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-### Analyzing the Bundle Size
+<br/>
+<br/>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Connect with me:
+<p align="left">
 
-### Making a Progressive Web App
+<a href = "https://www.linkedin.com/in/ankur-mishra-a9b0a6223/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/HaritwalMahipal"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+</p>
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# AnkurMishra00
-# management
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=AnkurMishra00">
+</a>
+<a href="https://github.com/mahi98jat?tab=followers"><img src="https://img.shields.io/github/followers/mahi98jat?label=Followers&style=social" alt="GitHub Badge"></a>
