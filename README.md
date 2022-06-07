@@ -7,7 +7,7 @@
 
 ## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p> 
 
-- 👨‍💻 Connect with me **[Mahipal Singh](https://www.linkedin.com/in/jtmahi)**
+- 👨‍💻 Connect with me **[Ankur Mishra](https://www.linkedin.com/in/ankur-mishra-a9b0a6223/)**
 -  🔭 I’m currently working on **my skills.**
 
 
@@ -38,8 +38,8 @@
  ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/mahi98jat/github-readme-stats"><img alt="Mahipal's Github stats" src="https://github-readme-stats.vercel.app/api?username=mahi98jat&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/mahi98jat/github-readme-stats"><img alt="Mahipal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahi98jat&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/mahi98jat/github-readme-stats"><img alt="Ankur's Github stats" src="https://github-readme-stats.vercel.app/api?username=mahi98jat&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/AnkurMishra00/github-readme-stats"><img alt="Mahipal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahi98jat&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
  
  
@@ -56,7 +56,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/ankur-mishra-a9b0a6223/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/HaritwalMahipal"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://twitter.com/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 </p>
 
