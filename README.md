@@ -38,7 +38,7 @@
  ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/mahi98jat/github-readme-stats"><img alt="Ankur's Github stats" src="https://github-readme-stats.vercel.app/api?username=mahi98jat&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/AnkurMishra00/github-readme-stats"><img alt="Ankur's Github stats" src="https://github-readme-stats.vercel.app/api?username=mahi98jat&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/AnkurMishra00/github-readme-stats"><img alt="Mahipal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahi98jat&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
  
