@@ -38,7 +38,7 @@
  ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/AnkurMishra00/github-readme-stats"><img alt="Ankur's Github stats" src="https://github-readme-stats.vercel.app/api?username=mahi98jat&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/AnkurMishra00/github-readme-stats"><img alt="Ankur's Github stats" src="https://github-readme-stats.vercel.app/api?username=AnkurMishra00&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/AnkurMishra00/github-readme-stats"><img alt="Mahipal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahi98jat&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
  
@@ -47,7 +47,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/mahi98jat/github-readme-activity-graph"><img alt="Mahipal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mahi98jat&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/AnkurMishra00/github-readme-activity-graph"><img alt="Mahipal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AnkurMishra00&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -56,7 +56,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/ankur-mishra-a9b0a6223/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://twitter.com/Ankur_Mishra_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 </p>
 
@@ -64,4 +64,4 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=AnkurMishra00">
 </a>
-<a href="https://github.com/mahi98jat?tab=followers"><img src="https://img.shields.io/github/followers/mahi98jat?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/AnkurMishra00?tab=followers"><img src="https://img.shields.io/github/followers/AnkurMishra00?label=Followers&style=social" alt="GitHub Badge"></a>
